@@ -1,2 +1,5 @@
 # hello-world
-This is where is let my thoughts run free. Data is my super power and I am here to solve the worlds problems with data.
+Anticipating to have completed the Merit America Data Analysis progrma and earned the Google Data Analysis Professional Certificate by July 30,2023. I am also utilizing this time to master Excel and learn new skills in SQL, Python, R, as well as create visual presentations through Tableau and PowerBI.
+For over 10 years, I have utlized tools such as SalesForce, Excell, Square, QuickBooks, Zapier, and MailChimp to create engaing reports and marketing campaigns that led to an over all increase in new business and increase profits for my employers. My diverse background of collegues have relied upon my relisancey, abilty to learn quickly, my mangement style and communicate effectivly to lead the team in measure that would routinely meet or exceed sales projections and performance measures.
+As a data analyst, I am I am passionate about using new tools to harvest data that can solve complex problems and drive business success. Known for my commitment to producing high-quality work, I’m excited about the opportunity to contribute my skills and experience to your team and organization.
+
